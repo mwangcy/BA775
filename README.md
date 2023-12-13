@@ -5,4 +5,4 @@ Group Project BA775 B02
 
 Group Members : **Pritam Pandit (PM)**, Aryan Kumar, Kunjingyi Chen, Mauro Wang, Tanvi Sheth
 
-Tableau Public Dashboard : ![link](https://public.tableau.com/app/profile/mauro.wang/viz/B02-Anime-Insights_17022701873650/OverviewDashboard)
+Tableau Public Dashboard : (https://public.tableau.com/app/profile/mauro.wang/viz/B02-Anime-Insights_17022701873650/OverviewDashboard)
